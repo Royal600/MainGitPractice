@@ -10,9 +10,6 @@ white
 java is fun
 orange
 cyan
-<<<<<<< Updated upstream
 french rose
-=======
 cyber yellow
 gold
->>>>>>> Stashed changes
