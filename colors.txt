@@ -10,3 +10,4 @@ white
 java is fun
 orange
 cyan
+french rose
