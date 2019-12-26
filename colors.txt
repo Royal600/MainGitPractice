@@ -9,4 +9,4 @@ pink
 white
 java is fun
 orange
-Cayan
+cyan
